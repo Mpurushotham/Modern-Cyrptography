@@ -1,15 +1,19 @@
-# Modern-Cyrptography
-It's all about the Modern Digital systems protecting using Cryptography methods and types 
+# Modern-Cryptography
+It's all about the Modern Digital systems protecting using Cryptography methods and types. Let's do a deep dive 👇
 
-# Cryptography: Principles, Evolution, Types, Implementations, and Strategic Importance in Modern Digital Systems
+---
 
+# 👨‍💻 Cryptography: Principles, Evolution, Types, Implementations, and Strategic Importance in Modern Digital Systems 🔥
 ---
 
 ## Introduction
 
 Cryptography stands at the core of modern digital security, ensuring data confidentiality, integrity, authentication, and non-repudiation across the connected world. As digital ecosystems have expanded, driven by e-commerce, cloud computing, remote work, and the Internet of Things, the critical need to shield sensitive data from growing cyber threats has intensified. This comprehensive report dissects the concept of cryptography from its historical origins to its present-day role in cybersecurity. It systematically explores the main cryptographic types—symmetric, asymmetric, and cryptographic hashing/salting—describes the most widely adopted algorithms and standards, details practical implementations including command-line tools and real-world examples, and analyzes cryptography’s foundational role in securing communications and compliance. Comparative tables, code examples, and authoritative references provide an exhaustive and practical perspective.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/52809126-3ab2-4123-8399-bcf122530de1" />
+
 ---
+
 
 ## 1. Definition and Core Principles of Cryptography
 
@@ -78,6 +82,9 @@ The evolution of cryptography mirrors the progression of human civilization's ne
 ## 3. Main Types of Cryptography: Concepts, Algorithms, and Use Cases
 
 Modern cryptography is categorized primarily into symmetric, asymmetric, and hash-based (including salting) methods. Each type has distinct mathematical foundations, practical uses, strengths, and weaknesses.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b72a94c3-65ce-48e3-851a-8113c0e76064" />
+---
 
 ### 3.1. Symmetric Cryptography
 
