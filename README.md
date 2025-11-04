@@ -455,4 +455,8 @@ Cryptography will remain a constantly developing field—its effectiveness is di
 
 ---
 
+Hands-on-Labs-Data-Encryption.md
+ENFORCING PASSWORD COMPLEXITY POLICY-PAM-Linux.md
+
+
 **For further reading and detailed algorithm tables, refer to standards and implementations from NIST, ISO/IEC, FIPS publications, OWASP, and security library documentation.**
