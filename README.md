@@ -457,7 +457,8 @@ Cryptography will remain a constantly developing field—its effectiveness is di
 
 [Hands-on-Labs-Data-Encryption.md](https://github.com/Mpurushotham/Modern-Cyrptography/blob/81839c6166cc0022b59ec3eda3f3d31b9d360784/Hands-on-Labs-Data-Encryption.md)
 
-ENFORCING PASSWORD COMPLEXITY POLICY-PAM-Linux.md
+[ENFORCING PASSWORD COMPLEXITY POLICY-PAM-Linux.md](https://github.com/Mpurushotham/Modern-Cyrptography/blob/c729b43853c055fbdab6dceb08a645491a4c99c6/ENFORCING%20PASSWORD%20COMPLEXITY%20POLICY-PAM-Linux.md)
+
 
 
 **For further reading and detailed algorithm tables, refer to standards and implementations from NIST, ISO/IEC, FIPS publications, OWASP, and security library documentation.**
